@@ -1,0 +1,17 @@
+section{
+    padding: 20px;
+    margin: 50px;
+}
+form,h1{
+    border: 1px;
+    background-color: aliceblue;
+    padding: 20px;
+    margin-left: 640px;
+    margin-right: 650px;
+}
+.heading{
+    background-color: rgb (62, 230, 113) ;
+}
+footer{
+    background-color: bisque;
+}
